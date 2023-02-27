@@ -21,8 +21,9 @@ Vuesoma is a custom development environment based on Vite + Vue 3 ecosystem that
 # Project setup:
 
 ```sh
-git clone https://github.com/michaelandrewrm/vuesoma
-cd vuesoma
+git clone https://github.com/michaelandrewrm/vuesoma <folder-name>
+cd <folder-name>
+npm init
 npm install
 ```
 
